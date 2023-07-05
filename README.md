@@ -2,7 +2,7 @@
 In this tutorial we're going to be checking out some of the biggest baddest LLMs...but running them on a GPU!
 
 ## See it live and in action 📺
-[![Tutorial]([https://i.imgur.com/qBoUX8m.jpg](https://i.imgur.com/mSrUVse.jpg))](https://youtu.be/sl2cqHxrTQ4 'Tutorial')
+[![Tutorial](https://i.imgur.com/mSrUVse.jpg)](https://youtu.be/sl2cqHxrTQ4 'Tutorial')
 
 # Startup 🚀
 1. Create a virtual environment `python -m venv gpullm`
